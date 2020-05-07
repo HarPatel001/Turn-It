@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lora');
+
+.form-div{
+    
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-family: 'Lora', serif;
+
+}
+h3 {
+    color: white;
+}
+
+label span { 
+    color: White; 
+}
+.form-control:focus{
+    box-shadow: none;
+}
+
+form p{
+    font-size: .89em;
+}
+
+.form-div.login{
+    margin-top: 100px;
+}
+
+.float-left {
+    float: left;
+    width: 250px;
+    position: fixed;
+}
+
+.main {
+    margin-left: 300px;
+}
+
+table, td, th, tr {
+
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+td, tr, th {
+
+    padding:  5px;
+}
+
+.proType {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.heading {
+
+    background: lightskyblue;
+}
+
+.center {
+
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+
+table {
+
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+}

@@ -1,0 +1,250 @@
+insert into product (productid, pname, color, size, ptype, baseprice) values ('7JE087', 'Foxtrot Zulu Romeo', 'Crimson', 'M', 'Gloves', '$13.72');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('4VN600', 'Sierra Papa', 'Goldenrod', '3XL', 'Pants', '$42.85');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('1OM925', 'Charlie Romeo', 'Fuscia', '3XL', 'Shoes', '$39.93');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('3ZA006', 'Echo Victor Papa', 'Purple', 'S', 'Sweater', '$15.58');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('5UP551', 'Tango Papa November', 'Red', 'M', 'Hat', '$9.81');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('0VY490', 'Victor Mike', 'Blue', '2XL', 'Shoes', '$19.32');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('4YM792', 'November Hotel', 'Crimson', 'S', 'Sweater', '$11.09');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('3NM639', 'Alfa Echo', 'Puce', 'S', 'Sweater', '$43.28');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('6TF598', 'X-ray Echo', 'Orange', 'XL', 'Sweater', '$30.52');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('7DO295', 'X-ray Sierra Romeo', 'Fuscia', 'L', 'T-Shirt', '$18.60');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('8OP598', 'X-ray Mike', 'Maroon', 'XL', 'Shoes', '$35.43');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('7HE473', 'Victor Mike India', 'Red', 'S', 'T-Shirt', '$20.35');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('0TO518', 'Quebec Whiskey Hotel', 'Crimson', 'XS', 'Pants', '$31.50');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('1JH860', 'Lima Yankee November', 'Turquoise', '2XL', 'T-Shirt', '$40.92');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('2PM050', 'Oscar Uniform Sierra', 'Crimson', 'M', 'Suits', '$30.12');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('7CT688', 'Charlie Victor Delta', 'Yellow', '2XL', 'T-Shirt', '$13.33');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('8ZE564', 'Papa Echo', 'Blue', 'M', 'T-Shirt', '$45.12');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('9NC910', 'Hotel November', 'Blue', 'M', 'T-Shirt', '$38.83');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('1BI665', 'Tango Alfa Mike', 'Turquoise', '2XL', 'Gloves', '$24.42');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('3HQ754', 'Mike Whiskey', 'Blue', 'M', 'Shirts', '$42.48');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('0GV607', 'Whiskey Papa', 'Aquamarine', 'XS', 'Socks', '$35.44');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('9GO522', 'Kilo Echo Juliett', 'Puce', 'M', 'Sweater', '$22.65');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('5DZ468', 'Uniform Papa Romeo', 'Fuscia', '2XL', 'T-Shirt', '$9.77');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('8HS712', 'Victor Sierra', 'Blue', 'L', 'T-Shirt', '$16.57');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('3UI559', 'November Echo', 'Green', 'XL', 'Shirts', '$18.82');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('6RK895', 'India November Uniform', 'Violet', 'L', 'Socks', '$5.95');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('6ED483', 'Echo Juliett', 'Orange', '2XL', 'Shoes', '$40.23');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('7OE551', 'Alfa Delta', 'Orange', 'XS', 'Pants', '$6.48');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('8DI350', 'Mike Victor', 'Green', '3XL', 'T-Shirt', '$35.31');
+insert into product (productid, pname, color, size, ptype, baseprice) values ('3HK683', 'Kilo Whiskey', 'Crimson', 'S', 'Shirts', '$9.65');
+
+
+
+insert into departments (departmentid) values (1);
+insert into departments (departmentid) values (2);
+insert into departments (departmentid) values (3);
+insert into departments (departmentid) values (4);
+insert into departments (departmentid) values (5);
+
+insert into sellable (productid) values ('7JE087');
+insert into sellable (productid) values ('4VN600');
+insert into sellable (productid) values ('1OM925');
+insert into sellable (productid) values ('3ZA006');
+insert into sellable (productid) values ('5UP551');
+insert into sellable (productid) values ('0VY490');
+insert into sellable (productid) values ('4YM792');
+insert into sellable (productid) values ('3NM639');
+insert into sellable (productid) values ('6TF598');
+insert into sellable (productid) values ('7DO295');
+insert into sellable (productid) values ('8OP598');
+insert into sellable (productid) values ('7HE473');
+insert into sellable (productid) values ('0TO518');
+insert into sellable (productid) values ('1JH860');
+
+
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('7JE087', 'www.turnitus.com/7JE087', 2, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('4VN600', 'www.turnitus.com/4VN600', 5, 1);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('1OM925', 'www.turnitus.com/1OM925', 4, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('3ZA006', 'www.turnitus.com/3ZA006', 9, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('5UP551', 'www.turnitus.com/5UP551', 2, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('0VY490', 'www.turnitus.com/0VY490', 11, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('4YM792', 'www.turnitus.com/4YM792', 7, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('3NM639', 'www.turnitus.com/3NM639', 2, 4);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('6TF598', 'www.turnitus.com/6TF598', 12, 2);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('7DO295', 'www.turnitus.com/7DO295', 1, 2);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('8OP598', 'www.turnitus.com/8OP598', 6, 1);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('7HE473', 'www.turnitus.com/7HE473', 5, 5);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('0TO518', 'www.turnitus.com/0TO518', 20, 1);
+insert into auctionplatform (productid, webaddress, quantity, departmentid) values ('1JH860', 'www.turnitus.com/1JH860', 12, 5);
+
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('K70', '20772 Ronald Regan Pass', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('Y65', '47021 Northview Plaza', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('U01', '2524 Buena Vista Terrace', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('W20', '6 Village Circle', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('N93', '66 Memorial Center', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('M72', '5 Memorial Drive', 3);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('M79', '55436 Montana Trail', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('O49', '2 Cardinal Center', 5);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('X43', '510 Rieder Avenue', 3);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('T09', '92 Farwell Circle', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('G49', '7 Heath Plaza', 5);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('E03', '2340 Schmedeman Street', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('X04', '61 Pierstorff Lane', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('G60', '261 Oak Valley Center', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('N02', '483 Karstens Circle', 5);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('G04', '3 Westridge Plaza', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('D70', '9313 Nevada Circle', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('K04', '18527 Stoughton Pass', 3);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('X51', '0 Armistice Circle', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('Q97', '4 Hagan Circle', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('M94', '237 Twin Pines Crossing', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('Z16', '15822 Walton Place', 4);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('X64', '65 Menomonie Pass', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('R91', '68 Eggendart Crossing', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('A23', '65 Harper Point', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('I58', '53 Judy Avenue', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('B68', '4384 Dottie Way', 5);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('W64', '48628 Glendale Lane', 2);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('H90', '79 Loomis Parkway', 1);
+insert into receivingcenter (centerid, rcaddress, departmentid) values ('Z44', '11 Jay Place', 1);
+
+
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('ON349', 'Muller-Homenick', 'T-Shirt', '5 Paget Circle', '659-719-5886', 'K70');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('BV878', 'Connelly, Quitzon and Jenkins', 'Pants', '5083 Maryland Center', '853-844-5081', 'Y65');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('CC374', 'Osinski, Runte and Runolfsdottir', 'Hat', '7 Red Cloud Drive', '239-110-1005', 'U01');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('HB217', 'Brakus, Runte and Von', 'Pants', '59237 Grasskamp Park', '582-533-4235', 'W20');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('HD505', 'Osinski Group', 'Shoes', '25410 Loomis Place', '236-422-2888', 'N93');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('JW233', 'Ullrich-Stehr', 'Socks', '6727 Maple Wood Point', '638-166-5538', 'M72');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('XE819', 'Tillman and Sons', 'Suits', '74 Commercial Way', '408-891-4245', 'M79');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('WC713', 'Price, Kozey and Barton', 'Suits', '62 Dawn Parkway', '673-252-5680', 'O49');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('RR988', 'Ankunding Inc', 'Socks', '41 Homewood Plaza', '576-114-8527', 'X43');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('HL847', 'Ward-Jacobson', 'Pants', '02 Old Gate Plaza', '612-459-5237', 'T09');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('FG342', 'Labadie, Auer and Orn', 'Shirts', '6 Carpenter Trail', '443-362-6325', 'G49');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('CT996', 'Yundt and Sons', 'Sweater', '30 Walton Way', '804-346-1754', 'E03');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('VB548', 'Mayer, Brakus and Cronin', 'Suits', '2 Hayes Place', '399-945-1809', 'X04');
+insert into retailer (accountid, rname, clothestype, raddress, rcontacts, centerid) values ('VA713', 'Ortiz LLC', 'Sweater', '7 Dapin Plaza', '502-684-2493', 'G60');
+
+
+
+
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('515-25-5922', 'Bar', 'Southerill', '44 Monterey Center', '60491.18', 'M', 1, '515-25-5922', 'bsoutherill0', '3S7PiP');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('256-13-6622', 'Starr', 'Segrave', '65 Hanover Pass', '41595.07', 'F', 4, '229-46-3860', 'ssegrave1', 'WId6rwwOu');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('298-55-8575', 'Mary', 'Maylour', '8 Sundown Junction', '60007.63', 'F', 1, '515-25-5922', 'mmaylour2', '9NxGWn8vGPsL');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('229-46-3860', 'Bendix', 'Houselee', '3 Laurel Drive', '58255.23', 'M', 1, '515-25-5922', 'bhouselee3', 'qeAFxwUhyNm');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('434-44-2601', 'Jerry', 'Hallifax', '74756 Stephen Lane', '45304.24', 'F', 5, '434-44-2601', 'jhallifax4', 'ihBMS1');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('165-68-6476', 'Agatha', 'Pharoah', '77104 Oak Court', '65256.19', 'F', 1, '515-25-5922', 'apharoah5', 'FkZ6L2Zk2');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('824-09-4354', 'Yank', 'Keele', '19 Bayside Lane', '40626.54', 'M', 2, '256-13-6622', 'ykeele6', 'jHLec6n3kEZK');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('345-33-3392', 'Zsa zsa', 'Corten', '735 Nobel Place', '40019.53', 'F', 4, '229-46-3860', 'zcorten7', 'q4oDWv');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('656-04-6405', 'Rosita', 'Catmull', '0979 Delladonna Street', '48337.95', 'F', 2, '256-13-6622', 'rcatmull8', '196CH8D');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('858-13-6444', 'Steven', 'Vasilchikov', '74 Bunting Point', '60241.63', 'M', 1, '515-25-5922', 'svasilchikov9', '0OHqPLyH');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('251-43-9976', 'Chris', 'Scawn', '6 Dayton Place', '69917.46', 'M', 1, '515-25-5922', 'cscawna', 'Hp5164Qpw');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('617-06-0181', 'Orelia', 'Chatenier', '4185 Mccormick Terrace', '42435.50', 'F', 1, '515-25-5922', 'ochatenierb', 'GvVsjlyJJ');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('304-83-7179', 'Neel', 'Troni', '4290 Florence Court', '46367.06', 'M', 3, '298-55-8575', 'ntronic', 'H4PQzuAG');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('728-95-7687', 'Rafaelia', 'Gazzard', '729 Stuart Trail', '46063.21', 'F', 1, '515-25-5922', 'rgazzardd', 'JmQ4kN8M');
+insert into employee (ssn, fname, lname, eaddress, salary, sex, departmentnum, super_ssn, username, password) values ('802-42-3544', 'Denis', 'Matthewson', '753 South Avenue', '55338.90', 'M', 1, '515-25-5922', 'dmatthewsone', 'gepLzibvMK');
+
+
+insert into dependent (essn, name, sex, dob, relationship) values ('515-25-5922', 'Paule Playfair', 'F', '1992-09-20', 'Sister-In-Law');
+insert into dependent (essn, name, sex, dob, relationship) values ('256-13-6622', 'Bronny Woltman', 'M', '1987-11-22', 'Daughter');
+insert into dependent (essn, name, sex, dob, relationship) values ('298-55-8575', 'Audy Scouler', 'F', '1996-07-20', 'Brother-In-Law');
+insert into dependent (essn, name, sex, dob, relationship) values ('229-46-3860', 'Emlyn Eatttok', 'F', '1981-07-26', 'Cousin');
+insert into dependent (essn, name, sex, dob, relationship) values ('434-44-2601', 'Saba Beese', 'F', '2004-01-31', 'Spouse');
+insert into dependent (essn, name, sex, dob, relationship) values ('165-68-6476', 'Hana Yurasov', 'F', '1980-09-12', 'Brother-In-Law');
+insert into dependent (essn, name, sex, dob, relationship) values ('824-09-4354', 'Noami Tiner', 'F', '1997-07-30', 'Spouse');
+insert into dependent (essn, name, sex, dob, relationship) values ('345-33-3392', 'Johnnie Spada', 'M', '2003-03-20', 'Sister');
+insert into dependent (essn, name, sex, dob, relationship) values ('656-04-6405', 'Lorita Mattsson', 'F', '2006-08-10', 'Nephew');
+insert into dependent (essn, name, sex, dob, relationship) values ('858-13-6444', 'Rutledge Millmore', 'M', '1991-06-29', 'Brother');
+
+                                                                    
+
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('RM97095', 'Gislason Inc', '1 Oneill Terrace', 'International', '354-812-1945', '7OE551');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('SJ02300', 'Blick-Kreiger', '62 Coolidge Court', 'International', '534-666-0363', '7OE551');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('SD65416', 'Vandervort LLC', '45384 Tomscot Terrace', 'Environmental', '764-332-3380', '3UI559');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('AS72061', 'Corkery LLC', '5 Packers Point', 'Art', '122-260-8630', '8ZE564');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('TS41772', 'Balistreri-Kuvalis', '4188 Bunker Hill Avenue', 'Environmental', '766-844-7021', '8HS712');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('QO78281', 'Heathcote, Barton and Kautzer', '2 Shelley Avenue', 'Homeless', '381-218-6900', '5DZ468');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('NI43035', 'Wilkinson-Braun', '5 Raven Lane', 'Environmental', '148-641-7597', '5DZ468');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('XT54458', 'Kunze-Morar', '37521 Caliangt Hill', 'DisasterRelief', '756-569-6593', '0GV607');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('MX72133', 'Gaylord, Harber and Hermann', '9 Waubesa Place', 'DisasterRelief', '997-251-4071', '9NC910');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('GD39866', 'Windler Inc', '44540 Carpenter Street', 'DisasterRelief', '572-712-0929', '3UI559');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('KV62103', 'Feeney, Rutherford and Ryan', '8 Green Point', 'DisasterRelief', '944-103-6224', '3UI559');
+insert into organization (organizationid, oname, oaddress, otype, ocontacts, productid) values ('WZ61123', 'Sanford-Bogisich', '65516 Anthes Alley', 'International', '899-598-3198', '6RK895');
+
+
+
+
+
+insert into bulkreceiving (centerid, accountid, rdate) values ('K70', 'ON349', '9/7/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('Y65', 'BV878', '5/18/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('U01', 'CC374', '8/5/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('W20', 'HB217', '7/1/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('N93', 'HD505', '6/21/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('M72', 'JW233', '10/5/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('M79', 'XE819', '5/15/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('O49', 'WC713', '10/28/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('X43', 'RR988', '9/16/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('T09', 'HL847', '4/1/2020');
+insert into bulkreceiving (centerid, accountid, rdate) values ('G49', 'FG342', '8/16/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('E03', 'CT996', '9/20/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('X04', 'VB548', '7/27/2019');
+insert into bulkreceiving (centerid, accountid, rdate) values ('G60', 'VA713', '8/15/2019');
+                                                               
+															    
+insert into unsellable (productid) values ('2PM050');
+insert into unsellable (productid) values ('7CT688');
+insert into unsellable (productid) values ('8ZE564');
+insert into unsellable (productid) values ('9NC910');
+insert into unsellable (productid) values ('1BI665');
+insert into unsellable (productid) values ('3HQ754');
+insert into unsellable (productid) values ('0GV607');
+insert into unsellable (productid) values ('9GO522');
+insert into unsellable (productid) values ('5DZ468');
+insert into unsellable (productid) values ('8HS712');
+insert into unsellable (productid) values ('3UI559');
+insert into unsellable (productid) values ('6RK895');
+insert into unsellable (productid) values ('6ED483');
+insert into unsellable (productid) values ('7OE551');
+insert into unsellable (productid) values ('8DI350');
+
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('26-1809605', 'Mella', 'Adamowicz', 'madamowicz0@washingtonpost.com', '64 Carioca Junction', '3 Merrick Parkway', 'Credit Card', 'SVvaVj8bOkP', '123-868-5804');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('93-3892105', 'Claire', 'Boyett', 'cboyett1@irs.gov', '473 Comanche Center', '9 Mccormick Plaza', 'Credit Card', '4UxJWMC', '439-700-1644');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('32-8106301', 'Duane', 'Seabrocke', 'dseabrocke2@yolasite.com', '2662 Esch Court', '1904 Garrison Center', 'Credit Card', 'sbjKR62', '731-958-4945');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('61-4359200', 'Correna', 'Boni', 'cboni3@studiopress.com', '1 Grayhawk Parkway', '93 Moose Circle', 'Cash', 'VFN6HlTY0O', '227-621-8127');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('10-5152722', 'Flossi', 'Murton', 'fmurton4@unblog.fr', '1 Eagle Crest Court', '3 Moulton Point', 'Paypal', 'brOeNuyRA', '314-235-4822');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('71-9598247', 'Cloe', 'Reynalds', 'creynalds5@yale.edu', '87386 Caliangt Lane', '9 Vermont Drive', 'Paypal', 'q2TNYnUZz', '533-194-5719');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('55-3167094', 'Tarrance', 'St. Clair', 'tstclair6@reverbnation.com', '07982 Basil Terrace', '27 Hallows Terrace', 'Paypal', 'wt0KZ6RTAJ', '368-597-2946');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('56-6777567', 'Eleanore', 'Thom', 'ethom7@seesaa.net', '1 Ronald Regan Circle', '4270 Morning Road', 'Debit Card', 'ZZzKzrTzYTIH', '223-152-9049');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('94-5439250', 'Lynn', 'Tosh', 'ltosh8@exblog.jp', '57 Fairview Center', '67865 Briar Crest Avenue', 'Credit Card', 'n7iWBnsAV7l', '781-902-7403');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('73-2886325', 'Genvieve', 'Wayvill', 'gwayvill9@harvard.edu', '95 Sullivan Center', '545 Dwight Trail', 'Cash', 'jy06ZrRaTg', '430-399-6270');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('02-0643100', 'Clint', 'Maciunas', 'cmaciunasa@shareasale.com', '9 Weeping Birch Lane', '83 Graceland Terrace', 'Paypal', 'UDiGqzfWWxZt', '391-266-9582');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('25-2082703', 'Bertha', 'Darington', 'bdaringtonb@discuz.net', '1102 Texas Street', '908 Mccormick Trail', 'Cash', '0zrrK3', '502-997-5164');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('30-6961832', 'Genni', 'Whitlock', 'gwhitlockc@apple.com', '3319 Monica Street', '384 Thackeray Junction', 'Paypal', 'uSTZLXzOJ', '879-438-1476');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('77-6837228', 'Lolita', 'Maycock', 'lmaycockd@furl.net', '03 Canary Crossing', '60 Butternut Terrace', 'Cash', 'XBqeg2BM', '289-229-7880');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('18-3811613', 'Melita', 'Blint', 'mblinte@nature.com', '784 Mesta Hill', '6 Algoma Way', 'Cash', 'vcEuD2VAh', '485-443-3707');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('37-9819027', 'Brook', 'Sinton', 'bsintonf@infoseek.co.jp', '390 Sutherland Place', '8851 Schlimgen Place', 'Credit Card', 'XQ9Q6aPcS', '673-458-1778');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('27-5378495', 'Elfrida', 'Brimicombe', 'ebrimicombeg@a8.net', '7 Fairfield Way', '74 Morning Trail', 'Cash', '7UelLzXDO', '366-793-7210');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('90-4740873', 'Rog', 'Leahair', 'rleahairh@amazon.co.uk', '015 Shoshone Avenue', '7493 Hollow Ridge Lane', 'Paypal', '5ZfvC5CZH', '936-818-5764');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('80-4448380', 'Alvy', 'Philpault', 'aphilpaulti@un.org', '24864 Lotheville Way', '35 Stoughton Parkway', 'Cash', 'NGg6JklXko', '702-915-3738');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('14-7679318', 'Valencia', 'Morigan', 'vmoriganj@berkeley.edu', '074 Eagle Crest Terrace', '090 Messerschmidt Drive', 'Debit Card', '91dEf0HQjHwY', '215-257-1436');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('44-7752234', 'Pearl', 'Deboy', 'pdeboyk@cocolog-nifty.com', '96 Loeprich Avenue', '622 Mccormick Pass', 'Paypal', 'DivCh4SH', '553-622-5105');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('00-8828365', 'Godard', 'Knightsbridge', 'gknightsbridgel@github.io', '8 Banding Point', '919 Karstens Road', 'Paypal', '65cDD9T', '289-384-3419');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('43-9154657', 'Niles', 'Carmichael', 'ncarmichaelm@eepurl.com', '55576 Merrick Lane', '62683 Johnson Crossing', 'Debit Card', 'LrVjvGYD', '978-698-0857');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('61-9801860', 'Birdie', 'Behnke', 'bbehnken@opensource.org', '63 Graceland Pass', '30977 Superior Junction', 'Paypal', 'mtbFMnW', '298-462-4024');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('92-0897068', 'Hope', 'Mulcock', 'hmulcocko@over-blog.com', '166 Jenna Junction', '1 Packers Plaza', 'Credit Card', 'swdaZ7sJ1N', '251-914-3560');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('37-5635183', 'Cliff', 'St. Queintain', 'cstqueintainp@addtoany.com', '2 Golf View Trail', '08 Morningstar Road', 'Debit Card', '8MrmTZJ', '174-117-3556');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('98-3445739', 'Moselle', 'Bolzmann', 'mbolzmannq@tuttocitta.it', '88 Kedzie Plaza', '7 Waubesa Center', 'Credit Card', 'UsNFXBEwY4', '394-746-4773');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('53-0312458', 'Lamond', 'Waleworke', 'lwaleworker@gravatar.com', '388 Comanche Avenue', '898 Stuart Terrace', 'Debit Card', '9kcX84GEvO', '599-740-0027');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('30-6780623', 'Ruthy', 'Salkild', 'rsalkilds@seattletimes.com', '77 Blue Bill Park Court', '749 Sauthoff Center', 'Credit Card', '92XE4l4NzhC', '585-240-5089');
+insert into userinfo (userid, fname, lname, email, address, shippingaddress, paymentmethod, password, mobileno) values ('63-7218578', 'Eilis', 'Berends', 'eberendst@mayoclinic.com', '044 Service Court', '9 Redwing Drive', 'Cash', 'O92OysAa2yaG', '444-432-6291');
+
+
+
+insert into sold (userid, price, quantity, productid) values ('26-1809605', '35.60', 5, '7JE087');
+insert into sold (userid, price, quantity, productid) values ('93-3892105', '40.39', 3, '4VN600');
+insert into sold (userid, price, quantity, productid) values ('32-8106301', '71.90', 2, '1OM925');
+insert into sold (userid, price, quantity, productid) values ('61-4359200', '38.27', 7, '3ZA006');
+insert into sold (userid, price, quantity, productid) values ('10-5152722', '30.49', 9, '5UP551');
+insert into sold (userid, price, quantity, productid) values ('71-9598247', '62.95', 5, '0VY490');
+insert into sold (userid, price, quantity, productid) values ('55-3167094', '56.93', 1, '4YM792');
+insert into sold (userid, price, quantity, productid) values ('56-6777567', '55.57', 9, '3NM639');
+
+
+insert into unsold (organizationid, price, quantity, productid) values ('RM97095', '93.04', 8, '6TF598');
+insert into unsold (organizationid, price, quantity, productid) values ('SJ02300', '48.01', 6, '7DO295');
+insert into unsold (organizationid, price, quantity, productid) values ('SD65416', '25.90', 3, '8OP598');
+insert into unsold (organizationid, price, quantity, productid) values ('AS72061', '52.76', 5, '7HE473');
+insert into unsold (organizationid, price, quantity, productid) values ('TS41772', '93.62', 9, '0TO518');
+insert into unsold (organizationid, price, quantity, productid) values ('QO78281', '32.94', 5, '1JH860');
+
+
